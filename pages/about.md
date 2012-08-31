@@ -3,4 +3,4 @@ title : About Me
 description:
 ---
 
-Hello, how are you?
+My name is Nred Yssuts' this is my personal webland for tinkering, blogging, snippets and more.

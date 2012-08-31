@@ -1,11 +1,11 @@
-title : Blog Title
-tagline: Blog Tagline
+title : Nred Yssuts
+tagline: Developer and friend of open-source
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Nred Yssuts
+  email : nredyssuts@gmail.com
+  github : nredyssuts
+  twitter : nredyssuts
+  appdotnet : nredyssuts
 
 navigation :
   - archive.html
